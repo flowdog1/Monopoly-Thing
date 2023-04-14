@@ -1,7 +1,13 @@
 # Directions for current project work:
-Find the folder called "GameGUI" in your IDE and upload it to this git. Don't upload all the other balogne.
+Just clone the file into NetBeans projects on your PC (documents folder), then open the project from inside netbeans (top right corner).
 
-# Image
-You can download the image, but you'll have to change it inside of your IDE so that the file path leads to it.
+# Main java file path
+contacteditor -> src -> main -> java -> my -> gameGUI -> gameGUI.java
+
+# To add images
+Add to DLC folder.
+
+# For new people
+Download the latest Java JDK, then install Apache Netbeans 17, then follow directions for current project work.
 
 # PULL OFTEN, IF YOU OVERRIDE CHANGES, SOCIAL CREDIT SCORE WILL BE DEDUCTED.
