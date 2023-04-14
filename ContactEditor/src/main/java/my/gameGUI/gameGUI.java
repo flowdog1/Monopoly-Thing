@@ -46,7 +46,7 @@ public class gameGUI extends javax.swing.JPanel {
 
         jPanel1.setBackground(new java.awt.Color(204, 255, 204));
 
-        jLabel1.setIcon(new javax.swing.ImageIcon("C:\\Users\\FlowD\\OneDrive\\Desktop\\GUI RESOURCES\\monopoly_photoshop_template.jpg")); // NOI18N
+        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/my/gameGUI/monopoly_photoshop_template.jpg"))); // NOI18N
 
         jTabbedPane4.setBackground(new java.awt.Color(204, 204, 204));
         jTabbedPane4.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.LOWERED));
